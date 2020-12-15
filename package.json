@@ -1,0 +1,15 @@
+{
+  "name": "string-processor",
+  "version": "1.0.0",
+  "description": "This is a string processor app",
+  "scripts": {
+    "test": "mocha",
+    "start": "node main.js"
+  },
+  "author": "Shoumya",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
